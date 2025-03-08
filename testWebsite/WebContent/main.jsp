@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>hello world (안녕이라는 뜻)</h1>
+	<div><a href="signUp.jsp">회원가입</a></div>
 </body>
 </html>
