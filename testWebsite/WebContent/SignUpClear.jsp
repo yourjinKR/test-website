@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>유어진의 임시 웹사이트</h1>
-	<div><a href="signUp.jsp">회원가입</a></div>
+	<h1>${name }님 회원가입 성공!</h1>
 </body>
 </html>
